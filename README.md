@@ -8,7 +8,7 @@
 ## Cara Penggunaan Program
 
 1. Install terlebih dahulu aplikasi anaconda jupyter
-2. Jalankan file Sentiment Analysis_Hanif Salafi_V2_Fix.ipynb pada aplikasi jupyter
+2. Jalankan file Sentiment-Analysis-Using-SVM.ipynb pada aplikasi jupyter
 3. Jika pertama kali menjalankan file, lakukan running program pada bagian Import Library, Load Dataset, Utils, dan Preprocessing - All Function
 4. Untuk melakukan Seleksi Fitur, lakukan running terlebih dahulu pada bagian Preprocessing with Stopword dan Split Dataset. Setelah itu, baru lakukan running program pada bagian Feature Selection
 5. Untuk melakukan Klasifikasi, lakukan running terlebih dahulu pada bagian Feature Selection dan Classification. Setelah itu, baru lakukan running program pada bagian Test SVM Classification.

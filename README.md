@@ -12,3 +12,6 @@
 3. Jika pertama kali menjalankan file, lakukan running program pada bagian Import Library, Load Dataset, Utils, dan Preprocessing - All Function
 4. Untuk melakukan Seleksi Fitur, lakukan running terlebih dahulu pada bagian Preprocessing with Stopword dan Split Dataset. Setelah itu, baru lakukan running program pada bagian Feature Selection
 5. Untuk melakukan Klasifikasi, lakukan running terlebih dahulu pada bagian Feature Selection dan Classification. Setelah itu, baru lakukan running program pada bagian Test SVM Classification.
+
+
+#### Kontak: [Hanif Salafi](https://www.linkedin.com/in/hanif-salafi/)

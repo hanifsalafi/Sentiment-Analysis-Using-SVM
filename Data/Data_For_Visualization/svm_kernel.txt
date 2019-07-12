@@ -1,0 +1,768 @@
+----------------------------------------------------
+         S V M   C L A S S I F I C A T I O N        
+----------------------------------------------------
+
+=============================
+Kernel : linear, Parameter : C=0.001, Gamma=scale, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 83.55
+Metrics : {'accuracy_score': 0.8355, 'precision_score': 0.846233230134159, 'recall_score': 0.82, 'f1_score': 0.8329101066531234}
+
+=============================
+Kernel : linear, Parameter : C=0.01, Gamma=scale, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 83.75
+Metrics : {'accuracy_score': 0.8375, 'precision_score': 0.8344895936570862, 'recall_score': 0.842, 'f1_score': 0.8382279741164759}
+
+=============================
+Kernel : linear, Parameter : C=0.1, Gamma=scale, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 86.0
+Metrics : {'accuracy_score': 0.86, 'precision_score': 0.8557312252964426, 'recall_score': 0.866, 'f1_score': 0.8608349900596421}
+
+=============================
+Kernel : linear, Parameter : C=1, Gamma=scale, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 88.9
+Metrics : {'accuracy_score': 0.889, 'precision_score': 0.8843873517786561, 'recall_score': 0.895, 'f1_score': 0.889662027833002}
+
+=============================
+Kernel : linear, Parameter : C=10, Gamma=scale, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 88.3
+Metrics : {'accuracy_score': 0.883, 'precision_score': 0.8799603174603174, 'recall_score': 0.887, 'f1_score': 0.8834661354581673}
+C:\Anaconda\lib\site-packages\sklearn\svm\base.py:931: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  "the number of iterations.", ConvergenceWarning)
+
+=============================
+Kernel : linear, Parameter : C=100, Gamma=scale, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 88.1
+Metrics : {'accuracy_score': 0.881, 'precision_score': 0.8779761904761905, 'recall_score': 0.885, 'f1_score': 0.8814741035856574}
+
+=============================
+Kernel : linear, Parameter : C=1000, Gamma=scale, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 88.1
+Metrics : {'accuracy_score': 0.881, 'precision_score': 0.8779761904761905, 'recall_score': 0.885, 'f1_score': 0.8814741035856574}
+----------------------------------------------------
+         S V M   C L A S S I F I C A T I O N        
+----------------------------------------------------
+
+=============================
+Kernel : rbf, Parameter : C=0.001, Gamma=0.001, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 81.0
+Metrics : {'accuracy_score': 0.81, 'precision_score': 0.7570480928689884, 'recall_score': 0.913, 'f1_score': 0.827742520398912}
+
+=============================
+Kernel : rbf, Parameter : C=0.001, Gamma=0.01, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 81.05
+Metrics : {'accuracy_score': 0.8105, 'precision_score': 0.7572493786246893, 'recall_score': 0.914, 'f1_score': 0.8282736746714998}
+
+=============================
+Kernel : rbf, Parameter : C=0.001, Gamma=0.1, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 80.95
+Metrics : {'accuracy_score': 0.8095, 'precision_score': 0.7551525144270403, 'recall_score': 0.916, 'f1_score': 0.8278355173971984}
+
+=============================
+Kernel : rbf, Parameter : C=0.001, Gamma=1, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 80.0
+Metrics : {'accuracy_score': 0.8, 'precision_score': 0.7388535031847133, 'recall_score': 0.928, 'f1_score': 0.8226950354609929}
+
+=============================
+Kernel : rbf, Parameter : C=0.001, Gamma=10, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 68.60000000000001
+Metrics : {'accuracy_score': 0.686, 'precision_score': 0.6260162601626016, 'recall_score': 0.924, 'f1_score': 0.7463651050080775}
+
+=============================
+Kernel : rbf, Parameter : C=0.001, Gamma=100, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 67.5
+Metrics : {'accuracy_score': 0.675, 'precision_score': 0.6386687797147385, 'recall_score': 0.806, 'f1_score': 0.7126436781609196}
+
+=============================
+Kernel : rbf, Parameter : C=0.001, Gamma=1000, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 50.4
+Metrics : {'accuracy_score': 0.504, 'precision_score': 0.5020080321285141, 'recall_score': 1.0, 'f1_score': 0.6684491978609626}
+
+=============================
+Kernel : rbf, Parameter : C=0.01, Gamma=0.001, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 81.0
+Metrics : {'accuracy_score': 0.81, 'precision_score': 0.7570480928689884, 'recall_score': 0.913, 'f1_score': 0.827742520398912}
+
+=============================
+Kernel : rbf, Parameter : C=0.01, Gamma=0.01, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 81.05
+Metrics : {'accuracy_score': 0.8105, 'precision_score': 0.7572493786246893, 'recall_score': 0.914, 'f1_score': 0.8282736746714998}
+
+=============================
+Kernel : rbf, Parameter : C=0.01, Gamma=0.1, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 80.95
+Metrics : {'accuracy_score': 0.8095, 'precision_score': 0.7551525144270403, 'recall_score': 0.916, 'f1_score': 0.8278355173971984}
+
+=============================
+Kernel : rbf, Parameter : C=0.01, Gamma=1, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 80.0
+Metrics : {'accuracy_score': 0.8, 'precision_score': 0.7388535031847133, 'recall_score': 0.928, 'f1_score': 0.8226950354609929}
+
+=============================
+Kernel : rbf, Parameter : C=0.01, Gamma=10, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 68.60000000000001
+Metrics : {'accuracy_score': 0.686, 'precision_score': 0.6260162601626016, 'recall_score': 0.924, 'f1_score': 0.7463651050080775}
+
+=============================
+Kernel : rbf, Parameter : C=0.01, Gamma=100, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 67.5
+Metrics : {'accuracy_score': 0.675, 'precision_score': 0.6386687797147385, 'recall_score': 0.806, 'f1_score': 0.7126436781609196}
+
+=============================
+Kernel : rbf, Parameter : C=0.01, Gamma=1000, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 50.4
+Metrics : {'accuracy_score': 0.504, 'precision_score': 0.5020080321285141, 'recall_score': 1.0, 'f1_score': 0.6684491978609626}
+
+=============================
+Kernel : rbf, Parameter : C=0.1, Gamma=0.001, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 81.0
+Metrics : {'accuracy_score': 0.81, 'precision_score': 0.7570480928689884, 'recall_score': 0.913, 'f1_score': 0.827742520398912}
+
+=============================
+Kernel : rbf, Parameter : C=0.1, Gamma=0.01, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 81.05
+Metrics : {'accuracy_score': 0.8105, 'precision_score': 0.7572493786246893, 'recall_score': 0.914, 'f1_score': 0.8282736746714998}
+
+=============================
+Kernel : rbf, Parameter : C=0.1, Gamma=0.1, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 80.95
+Metrics : {'accuracy_score': 0.8095, 'precision_score': 0.7551525144270403, 'recall_score': 0.916, 'f1_score': 0.8278355173971984}
+
+=============================
+Kernel : rbf, Parameter : C=0.1, Gamma=1, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 80.0
+Metrics : {'accuracy_score': 0.8, 'precision_score': 0.7388535031847133, 'recall_score': 0.928, 'f1_score': 0.8226950354609929}
+
+=============================
+Kernel : rbf, Parameter : C=0.1, Gamma=10, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 68.60000000000001
+Metrics : {'accuracy_score': 0.686, 'precision_score': 0.6260162601626016, 'recall_score': 0.924, 'f1_score': 0.7463651050080775}
+
+=============================
+Kernel : rbf, Parameter : C=0.1, Gamma=100, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 67.5
+Metrics : {'accuracy_score': 0.675, 'precision_score': 0.6386687797147385, 'recall_score': 0.806, 'f1_score': 0.7126436781609196}
+
+=============================
+Kernel : rbf, Parameter : C=0.1, Gamma=1000, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 50.4
+Metrics : {'accuracy_score': 0.504, 'precision_score': 0.5020080321285141, 'recall_score': 1.0, 'f1_score': 0.6684491978609626}
+
+=============================
+Kernel : rbf, Parameter : C=1, Gamma=0.001, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 81.0
+Metrics : {'accuracy_score': 0.81, 'precision_score': 0.7570480928689884, 'recall_score': 0.913, 'f1_score': 0.827742520398912}
+
+=============================
+Kernel : rbf, Parameter : C=1, Gamma=0.01, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 81.05
+Metrics : {'accuracy_score': 0.8105, 'precision_score': 0.7572493786246893, 'recall_score': 0.914, 'f1_score': 0.8282736746714998}
+
+=============================
+Kernel : rbf, Parameter : C=1, Gamma=0.1, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 83.35000000000001
+Metrics : {'accuracy_score': 0.8335, 'precision_score': 0.8085106382978723, 'recall_score': 0.874, 'f1_score': 0.8399807784718886}
+
+=============================
+Kernel : rbf, Parameter : C=1, Gamma=1, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 86.6
+Metrics : {'accuracy_score': 0.866, 'precision_score': 0.8609467455621301, 'recall_score': 0.873, 'f1_score': 0.8669314796425025}
+
+=============================
+Kernel : rbf, Parameter : C=1, Gamma=10, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 50.55
+Metrics : {'accuracy_score': 0.5055, 'precision_score': 0.5054835493519442, 'recall_score': 0.507, 'f1_score': 0.5062406390414378}
+
+=============================
+Kernel : rbf, Parameter : C=1, Gamma=100, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 50.2
+Metrics : {'accuracy_score': 0.502, 'precision_score': 0.5033222591362126, 'recall_score': 0.303, 'f1_score': 0.3782771535580524}
+
+=============================
+Kernel : rbf, Parameter : C=1, Gamma=1000, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 50.1
+Metrics : {'accuracy_score': 0.501, 'precision_score': 0.5007142857142857, 'recall_score': 0.701, 'f1_score': 0.5841666666666666}
+
+=============================
+Kernel : rbf, Parameter : C=10, Gamma=0.001, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 81.0
+Metrics : {'accuracy_score': 0.81, 'precision_score': 0.7570480928689884, 'recall_score': 0.913, 'f1_score': 0.827742520398912}
+
+=============================
+Kernel : rbf, Parameter : C=10, Gamma=0.01, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 84.1
+Metrics : {'accuracy_score': 0.841, 'precision_score': 0.8198874296435272, 'recall_score': 0.874, 'f1_score': 0.846079380445305}
+
+=============================
+Kernel : rbf, Parameter : C=10, Gamma=0.1, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 88.44999999999999
+Metrics : {'accuracy_score': 0.8845, 'precision_score': 0.8818272095332671, 'recall_score': 0.888, 'f1_score': 0.8849028400597907}
+
+=============================
+Kernel : rbf, Parameter : C=10, Gamma=1, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 87.4
+Metrics : {'accuracy_score': 0.874, 'precision_score': 0.8695652173913043, 'recall_score': 0.88, 'f1_score': 0.8747514910536779}
+
+=============================
+Kernel : rbf, Parameter : C=10, Gamma=10, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 50.6
+Metrics : {'accuracy_score': 0.506, 'precision_score': 0.5059760956175299, 'recall_score': 0.508, 'f1_score': 0.5069860279441117}
+
+=============================
+Kernel : rbf, Parameter : C=10, Gamma=100, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 50.2
+Metrics : {'accuracy_score': 0.502, 'precision_score': 0.5033222591362126, 'recall_score': 0.303, 'f1_score': 0.3782771535580524}
+
+=============================
+Kernel : rbf, Parameter : C=10, Gamma=1000, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 50.1
+Metrics : {'accuracy_score': 0.501, 'precision_score': 0.5007142857142857, 'recall_score': 0.701, 'f1_score': 0.5841666666666666}
+
+=============================
+Kernel : rbf, Parameter : C=100, Gamma=0.001, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 84.15
+Metrics : {'accuracy_score': 0.8415, 'precision_score': 0.8212605832549389, 'recall_score': 0.873, 'f1_score': 0.8463402811439651}
+
+=============================
+Kernel : rbf, Parameter : C=100, Gamma=0.01, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 88.3
+Metrics : {'accuracy_score': 0.883, 'precision_score': 0.8799603174603174, 'recall_score': 0.887, 'f1_score': 0.8834661354581673}
+
+=============================
+Kernel : rbf, Parameter : C=100, Gamma=0.1, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 88.3
+Metrics : {'accuracy_score': 0.883, 'precision_score': 0.8799603174603174, 'recall_score': 0.887, 'f1_score': 0.8834661354581673}
+
+=============================
+Kernel : rbf, Parameter : C=100, Gamma=1, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 87.4
+Metrics : {'accuracy_score': 0.874, 'precision_score': 0.8695652173913043, 'recall_score': 0.88, 'f1_score': 0.8747514910536779}
+
+=============================
+Kernel : rbf, Parameter : C=100, Gamma=10, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 50.6
+Metrics : {'accuracy_score': 0.506, 'precision_score': 0.5059760956175299, 'recall_score': 0.508, 'f1_score': 0.5069860279441117}
+
+=============================
+Kernel : rbf, Parameter : C=100, Gamma=100, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 50.2
+Metrics : {'accuracy_score': 0.502, 'precision_score': 0.5033222591362126, 'recall_score': 0.303, 'f1_score': 0.3782771535580524}
+
+=============================
+Kernel : rbf, Parameter : C=100, Gamma=1000, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 50.1
+Metrics : {'accuracy_score': 0.501, 'precision_score': 0.5007142857142857, 'recall_score': 0.701, 'f1_score': 0.5841666666666666}
+
+=============================
+Kernel : rbf, Parameter : C=1000, Gamma=0.001, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 88.3
+Metrics : {'accuracy_score': 0.883, 'precision_score': 0.8799603174603174, 'recall_score': 0.887, 'f1_score': 0.8834661354581673}
+
+=============================
+Kernel : rbf, Parameter : C=1000, Gamma=0.01, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 88.14999999999999
+Metrics : {'accuracy_score': 0.8815, 'precision_score': 0.8788480635551142, 'recall_score': 0.885, 'f1_score': 0.8819133034379671}
+
+=============================
+Kernel : rbf, Parameter : C=1000, Gamma=0.1, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 88.3
+Metrics : {'accuracy_score': 0.883, 'precision_score': 0.8799603174603174, 'recall_score': 0.887, 'f1_score': 0.8834661354581673}
+
+=============================
+Kernel : rbf, Parameter : C=1000, Gamma=1, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 87.4
+Metrics : {'accuracy_score': 0.874, 'precision_score': 0.8695652173913043, 'recall_score': 0.88, 'f1_score': 0.8747514910536779}
+
+=============================
+Kernel : rbf, Parameter : C=1000, Gamma=10, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 50.6
+Metrics : {'accuracy_score': 0.506, 'precision_score': 0.5059760956175299, 'recall_score': 0.508, 'f1_score': 0.5069860279441117}
+
+=============================
+Kernel : rbf, Parameter : C=1000, Gamma=100, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 50.2
+Metrics : {'accuracy_score': 0.502, 'precision_score': 0.5033222591362126, 'recall_score': 0.303, 'f1_score': 0.3782771535580524}
+
+=============================
+Kernel : rbf, Parameter : C=1000, Gamma=1000, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 50.1
+Metrics : {'accuracy_score': 0.501, 'precision_score': 0.5007142857142857, 'recall_score': 0.701, 'f1_score': 0.5841666666666666}
+
+----------------------------------------------------
+         S V M   C L A S S I F I C A T I O N        
+----------------------------------------------------
+
+=============================
+Kernel : poly, Parameter : C=0.001, Gamma=0, Degree=1
+Jumlah Data : 2000
+Akurasi SVM : 81.0
+Metrics : {'accuracy_score': 0.81, 'precision_score': 0.7570480928689884, 'recall_score': 0.913, 'f1_score': 0.827742520398912}
+
+=============================
+Kernel : poly, Parameter : C=0.01, Gamma=0, Degree=1
+Jumlah Data : 2000
+Akurasi SVM : 81.0
+Metrics : {'accuracy_score': 0.81, 'precision_score': 0.7570480928689884, 'recall_score': 0.913, 'f1_score': 0.827742520398912}
+
+=============================
+Kernel : poly, Parameter : C=0.1, Gamma=0, Degree=1
+Jumlah Data : 2000
+Akurasi SVM : 81.0
+Metrics : {'accuracy_score': 0.81, 'precision_score': 0.7570480928689884, 'recall_score': 0.913, 'f1_score': 0.827742520398912}
+
+=============================
+Kernel : poly, Parameter : C=1, Gamma=0, Degree=1
+Jumlah Data : 2000
+Akurasi SVM : 81.0
+Metrics : {'accuracy_score': 0.81, 'precision_score': 0.7570480928689884, 'recall_score': 0.913, 'f1_score': 0.827742520398912}
+
+=============================
+Kernel : poly, Parameter : C=10, Gamma=0, Degree=1
+Jumlah Data : 2000
+Akurasi SVM : 81.0
+Metrics : {'accuracy_score': 0.81, 'precision_score': 0.7570480928689884, 'recall_score': 0.913, 'f1_score': 0.827742520398912}
+
+=============================
+Kernel : poly, Parameter : C=100, Gamma=0, Degree=1
+Jumlah Data : 2000
+Akurasi SVM : 81.0
+Metrics : {'accuracy_score': 0.81, 'precision_score': 0.7570480928689884, 'recall_score': 0.913, 'f1_score': 0.827742520398912}
+
+=============================
+Kernel : poly, Parameter : C=1000, Gamma=0, Degree=1
+Jumlah Data : 2000
+Akurasi SVM : 81.0
+Metrics : {'accuracy_score': 0.81, 'precision_score': 0.7570480928689884, 'recall_score': 0.913, 'f1_score': 0.827742520398912}
+
+=============================
+Kernel : poly, Parameter : C=0.001, Gamma=0, Degree=2
+Jumlah Data : 2000
+Akurasi SVM : 80.05
+Metrics : {'accuracy_score': 0.8005, 'precision_score': 0.7441104792851341, 'recall_score': 0.916, 'f1_score': 0.8211564320932317}
+
+=============================
+Kernel : poly, Parameter : C=0.01, Gamma=0, Degree=2
+Jumlah Data : 2000
+Akurasi SVM : 80.05
+Metrics : {'accuracy_score': 0.8005, 'precision_score': 0.7441104792851341, 'recall_score': 0.916, 'f1_score': 0.8211564320932317}
+
+=============================
+Kernel : poly, Parameter : C=0.1, Gamma=0, Degree=2
+Jumlah Data : 2000
+Akurasi SVM : 80.05
+Metrics : {'accuracy_score': 0.8005, 'precision_score': 0.7441104792851341, 'recall_score': 0.916, 'f1_score': 0.8211564320932317}
+
+=============================
+Kernel : poly, Parameter : C=1, Gamma=0, Degree=2
+Jumlah Data : 2000
+Akurasi SVM : 80.05
+Metrics : {'accuracy_score': 0.8005, 'precision_score': 0.7441104792851341, 'recall_score': 0.916, 'f1_score': 0.8211564320932317}
+
+=============================
+Kernel : poly, Parameter : C=10, Gamma=0, Degree=2
+Jumlah Data : 2000
+Akurasi SVM : 80.05
+Metrics : {'accuracy_score': 0.8005, 'precision_score': 0.7441104792851341, 'recall_score': 0.916, 'f1_score': 0.8211564320932317}
+
+=============================
+Kernel : poly, Parameter : C=100, Gamma=0, Degree=2
+Jumlah Data : 2000
+Akurasi SVM : 80.05
+Metrics : {'accuracy_score': 0.8005, 'precision_score': 0.7441104792851341, 'recall_score': 0.916, 'f1_score': 0.8211564320932317}
+
+=============================
+Kernel : poly, Parameter : C=1000, Gamma=0, Degree=2
+Jumlah Data : 2000
+Akurasi SVM : 80.05
+Metrics : {'accuracy_score': 0.8005, 'precision_score': 0.7441104792851341, 'recall_score': 0.916, 'f1_score': 0.8211564320932317}
+
+=============================
+Kernel : poly, Parameter : C=0.001, Gamma=0, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 81.45
+Metrics : {'accuracy_score': 0.8145, 'precision_score': 0.8272632674297606, 'recall_score': 0.795, 'f1_score': 0.8108108108108109}
+
+=============================
+Kernel : poly, Parameter : C=0.01, Gamma=0, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 81.45
+Metrics : {'accuracy_score': 0.8145, 'precision_score': 0.8272632674297606, 'recall_score': 0.795, 'f1_score': 0.8108108108108109}
+
+=============================
+Kernel : poly, Parameter : C=0.1, Gamma=0, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 78.95
+Metrics : {'accuracy_score': 0.7895, 'precision_score': 0.8316151202749141, 'recall_score': 0.726, 'f1_score': 0.7752269087026161}
+
+=============================
+Kernel : poly, Parameter : C=1, Gamma=0, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 78.60000000000001
+Metrics : {'accuracy_score': 0.786, 'precision_score': 0.733278955954323, 'recall_score': 0.899, 'f1_score': 0.8077268643306379}
+
+=============================
+Kernel : poly, Parameter : C=10, Gamma=0, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 75.25
+Metrics : {'accuracy_score': 0.7525, 'precision_score': 0.6885735623599701, 'recall_score': 0.922, 'f1_score': 0.7883710987601539}
+
+=============================
+Kernel : poly, Parameter : C=100, Gamma=0, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 75.75
+Metrics : {'accuracy_score': 0.7575, 'precision_score': 0.6955201214882308, 'recall_score': 0.916, 'f1_score': 0.790677600345274}
+
+=============================
+Kernel : poly, Parameter : C=1000, Gamma=0, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 75.8
+Metrics : {'accuracy_score': 0.758, 'precision_score': 0.6954545454545454, 'recall_score': 0.918, 'f1_score': 0.7913793103448276}
+
+=============================
+Kernel : poly, Parameter : C=0.001, Gamma=0, Degree=4
+Jumlah Data : 2000
+Akurasi SVM : 80.4
+Metrics : {'accuracy_score': 0.804, 'precision_score': 0.7940038684719536, 'recall_score': 0.821, 'f1_score': 0.8072763028515241}
+
+=============================
+Kernel : poly, Parameter : C=0.01, Gamma=0, Degree=4
+Jumlah Data : 2000
+Akurasi SVM : 80.4
+Metrics : {'accuracy_score': 0.804, 'precision_score': 0.7940038684719536, 'recall_score': 0.821, 'f1_score': 0.8072763028515241}
+
+=============================
+Kernel : poly, Parameter : C=0.1, Gamma=0, Degree=4
+Jumlah Data : 2000
+Akurasi SVM : 80.4
+Metrics : {'accuracy_score': 0.804, 'precision_score': 0.7940038684719536, 'recall_score': 0.821, 'f1_score': 0.8072763028515241}
+
+=============================
+Kernel : poly, Parameter : C=1, Gamma=0, Degree=4
+Jumlah Data : 2000
+Akurasi SVM : 80.4
+Metrics : {'accuracy_score': 0.804, 'precision_score': 0.7940038684719536, 'recall_score': 0.821, 'f1_score': 0.8072763028515241}
+
+=============================
+Kernel : poly, Parameter : C=10, Gamma=0, Degree=4
+Jumlah Data : 2000
+Akurasi SVM : 80.4
+Metrics : {'accuracy_score': 0.804, 'precision_score': 0.7940038684719536, 'recall_score': 0.821, 'f1_score': 0.8072763028515241}
+
+=============================
+Kernel : poly, Parameter : C=100, Gamma=0, Degree=4
+Jumlah Data : 2000
+Akurasi SVM : 80.4
+Metrics : {'accuracy_score': 0.804, 'precision_score': 0.7940038684719536, 'recall_score': 0.821, 'f1_score': 0.8072763028515241}
+
+=============================
+Kernel : poly, Parameter : C=1000, Gamma=0, Degree=4
+Jumlah Data : 2000
+Akurasi SVM : 80.4
+Metrics : {'accuracy_score': 0.804, 'precision_score': 0.7940038684719536, 'recall_score': 0.821, 'f1_score': 0.8072763028515241}
+
+=============================
+Kernel : poly, Parameter : C=0.001, Gamma=0, Degree=5
+Jumlah Data : 2000
+Akurasi SVM : 78.3
+Metrics : {'accuracy_score': 0.783, 'precision_score': 0.7685009487666035, 'recall_score': 0.81, 'f1_score': 0.7887049659201558}
+
+=============================
+Kernel : poly, Parameter : C=0.01, Gamma=0, Degree=5
+Jumlah Data : 2000
+Akurasi SVM : 78.3
+Metrics : {'accuracy_score': 0.783, 'precision_score': 0.7685009487666035, 'recall_score': 0.81, 'f1_score': 0.7887049659201558}
+
+=============================
+Kernel : poly, Parameter : C=0.1, Gamma=0, Degree=5
+Jumlah Data : 2000
+Akurasi SVM : 78.3
+Metrics : {'accuracy_score': 0.783, 'precision_score': 0.7685009487666035, 'recall_score': 0.81, 'f1_score': 0.7887049659201558}
+
+=============================
+Kernel : poly, Parameter : C=1, Gamma=0, Degree=5
+Jumlah Data : 2000
+Akurasi SVM : 78.3
+Metrics : {'accuracy_score': 0.783, 'precision_score': 0.7685009487666035, 'recall_score': 0.81, 'f1_score': 0.7887049659201558}
+
+=============================
+Kernel : poly, Parameter : C=10, Gamma=0, Degree=5
+Jumlah Data : 2000
+Akurasi SVM : 78.3
+Metrics : {'accuracy_score': 0.783, 'precision_score': 0.7685009487666035, 'recall_score': 0.81, 'f1_score': 0.7887049659201558}
+
+=============================
+Kernel : poly, Parameter : C=100, Gamma=0, Degree=5
+Jumlah Data : 2000
+Akurasi SVM : 78.3
+Metrics : {'accuracy_score': 0.783, 'precision_score': 0.7685009487666035, 'recall_score': 0.81, 'f1_score': 0.7887049659201558}
+
+=============================
+Kernel : poly, Parameter : C=1000, Gamma=0, Degree=5
+Jumlah Data : 2000
+Akurasi SVM : 78.3
+Metrics : {'accuracy_score': 0.783, 'precision_score': 0.7685009487666035, 'recall_score': 0.81, 'f1_score': 0.7887049659201558}
+
+=============================
+Kernel : poly, Parameter : C=0.001, Gamma=0, Degree=6
+Jumlah Data : 2000
+Akurasi SVM : 77.25
+Metrics : {'accuracy_score': 0.7725, 'precision_score': 0.754911131898971, 'recall_score': 0.807, 'f1_score': 0.7800869985500242}
+
+=============================
+Kernel : poly, Parameter : C=0.01, Gamma=0, Degree=6
+Jumlah Data : 2000
+Akurasi SVM : 77.25
+Metrics : {'accuracy_score': 0.7725, 'precision_score': 0.754911131898971, 'recall_score': 0.807, 'f1_score': 0.7800869985500242}
+
+=============================
+Kernel : poly, Parameter : C=0.1, Gamma=0, Degree=6
+Jumlah Data : 2000
+Akurasi SVM : 77.25
+Metrics : {'accuracy_score': 0.7725, 'precision_score': 0.754911131898971, 'recall_score': 0.807, 'f1_score': 0.7800869985500242}
+
+=============================
+Kernel : poly, Parameter : C=1, Gamma=0, Degree=6
+Jumlah Data : 2000
+Akurasi SVM : 77.25
+Metrics : {'accuracy_score': 0.7725, 'precision_score': 0.754911131898971, 'recall_score': 0.807, 'f1_score': 0.7800869985500242}
+
+=============================
+Kernel : poly, Parameter : C=10, Gamma=0, Degree=6
+Jumlah Data : 2000
+Akurasi SVM : 77.25
+Metrics : {'accuracy_score': 0.7725, 'precision_score': 0.754911131898971, 'recall_score': 0.807, 'f1_score': 0.7800869985500242}
+
+=============================
+Kernel : poly, Parameter : C=100, Gamma=0, Degree=6
+Jumlah Data : 2000
+Akurasi SVM : 77.25
+Metrics : {'accuracy_score': 0.7725, 'precision_score': 0.754911131898971, 'recall_score': 0.807, 'f1_score': 0.7800869985500242}
+
+=============================
+Kernel : poly, Parameter : C=1000, Gamma=0, Degree=6
+Jumlah Data : 2000
+Akurasi SVM : 77.25
+Metrics : {'accuracy_score': 0.7725, 'precision_score': 0.754911131898971, 'recall_score': 0.807, 'f1_score': 0.7800869985500242}
+
+=============================
+Kernel : poly, Parameter : C=0.001, Gamma=0, Degree=7
+Jumlah Data : 2000
+Akurasi SVM : 76.3
+Metrics : {'accuracy_score': 0.763, 'precision_score': 0.7439703153988868, 'recall_score': 0.802, 'f1_score': 0.7718960538979788}
+
+=============================
+Kernel : poly, Parameter : C=0.01, Gamma=0, Degree=7
+Jumlah Data : 2000
+Akurasi SVM : 76.3
+Metrics : {'accuracy_score': 0.763, 'precision_score': 0.7439703153988868, 'recall_score': 0.802, 'f1_score': 0.7718960538979788}
+
+=============================
+Kernel : poly, Parameter : C=0.1, Gamma=0, Degree=7
+Jumlah Data : 2000
+Akurasi SVM : 76.3
+Metrics : {'accuracy_score': 0.763, 'precision_score': 0.7439703153988868, 'recall_score': 0.802, 'f1_score': 0.7718960538979788}
+
+=============================
+Kernel : poly, Parameter : C=1, Gamma=0, Degree=7
+Jumlah Data : 2000
+Akurasi SVM : 76.3
+Metrics : {'accuracy_score': 0.763, 'precision_score': 0.7439703153988868, 'recall_score': 0.802, 'f1_score': 0.7718960538979788}
+
+=============================
+Kernel : poly, Parameter : C=10, Gamma=0, Degree=7
+Jumlah Data : 2000
+Akurasi SVM : 76.3
+Metrics : {'accuracy_score': 0.763, 'precision_score': 0.7439703153988868, 'recall_score': 0.802, 'f1_score': 0.7718960538979788}
+
+=============================
+Kernel : poly, Parameter : C=100, Gamma=0, Degree=7
+Jumlah Data : 2000
+Akurasi SVM : 76.3
+Metrics : {'accuracy_score': 0.763, 'precision_score': 0.7439703153988868, 'recall_score': 0.802, 'f1_score': 0.7718960538979788}
+
+=============================
+Kernel : poly, Parameter : C=1000, Gamma=0, Degree=7
+Jumlah Data : 2000
+Akurasi SVM : 76.3
+Metrics : {'accuracy_score': 0.763, 'precision_score': 0.7439703153988868, 'recall_score': 0.802, 'f1_score': 0.7718960538979788}
+
+=============================
+Kernel : poly, Parameter : C=0.001, Gamma=0, Degree=8
+Jumlah Data : 2000
+Akurasi SVM : 75.55
+Metrics : {'accuracy_score': 0.7555, 'precision_score': 0.7329079307201458, 'recall_score': 0.804, 'f1_score': 0.7668097281831188}
+
+=============================
+Kernel : poly, Parameter : C=0.01, Gamma=0, Degree=8
+Jumlah Data : 2000
+Akurasi SVM : 75.55
+Metrics : {'accuracy_score': 0.7555, 'precision_score': 0.7329079307201458, 'recall_score': 0.804, 'f1_score': 0.7668097281831188}
+
+=============================
+Kernel : poly, Parameter : C=0.1, Gamma=0, Degree=8
+Jumlah Data : 2000
+Akurasi SVM : 75.55
+Metrics : {'accuracy_score': 0.7555, 'precision_score': 0.7329079307201458, 'recall_score': 0.804, 'f1_score': 0.7668097281831188}
+
+=============================
+Kernel : poly, Parameter : C=1, Gamma=0, Degree=8
+Jumlah Data : 2000
+Akurasi SVM : 75.55
+Metrics : {'accuracy_score': 0.7555, 'precision_score': 0.7329079307201458, 'recall_score': 0.804, 'f1_score': 0.7668097281831188}
+
+=============================
+Kernel : poly, Parameter : C=10, Gamma=0, Degree=8
+Jumlah Data : 2000
+Akurasi SVM : 75.55
+Metrics : {'accuracy_score': 0.7555, 'precision_score': 0.7329079307201458, 'recall_score': 0.804, 'f1_score': 0.7668097281831188}
+
+=============================
+Kernel : poly, Parameter : C=100, Gamma=0, Degree=8
+Jumlah Data : 2000
+Akurasi SVM : 75.55
+Metrics : {'accuracy_score': 0.7555, 'precision_score': 0.7329079307201458, 'recall_score': 0.804, 'f1_score': 0.7668097281831188}
+
+=============================
+Kernel : poly, Parameter : C=1000, Gamma=0, Degree=8
+Jumlah Data : 2000
+Akurasi SVM : 75.55
+Metrics : {'accuracy_score': 0.7555, 'precision_score': 0.7329079307201458, 'recall_score': 0.804, 'f1_score': 0.7668097281831188}
+
+=============================
+Kernel : poly, Parameter : C=0.001, Gamma=0, Degree=9
+Jumlah Data : 2000
+Akurasi SVM : 74.8
+Metrics : {'accuracy_score': 0.748, 'precision_score': 0.7279411764705882, 'recall_score': 0.792, 'f1_score': 0.7586206896551724}
+
+=============================
+Kernel : poly, Parameter : C=0.01, Gamma=0, Degree=9
+Jumlah Data : 2000
+Akurasi SVM : 74.8
+Metrics : {'accuracy_score': 0.748, 'precision_score': 0.7279411764705882, 'recall_score': 0.792, 'f1_score': 0.7586206896551724}
+
+=============================
+Kernel : poly, Parameter : C=0.1, Gamma=0, Degree=9
+Jumlah Data : 2000
+Akurasi SVM : 74.8
+Metrics : {'accuracy_score': 0.748, 'precision_score': 0.7279411764705882, 'recall_score': 0.792, 'f1_score': 0.7586206896551724}
+
+=============================
+Kernel : poly, Parameter : C=1, Gamma=0, Degree=9
+Jumlah Data : 2000
+Akurasi SVM : 74.8
+Metrics : {'accuracy_score': 0.748, 'precision_score': 0.7279411764705882, 'recall_score': 0.792, 'f1_score': 0.7586206896551724}
+
+=============================
+Kernel : poly, Parameter : C=10, Gamma=0, Degree=9
+Jumlah Data : 2000
+Akurasi SVM : 74.8
+Metrics : {'accuracy_score': 0.748, 'precision_score': 0.7279411764705882, 'recall_score': 0.792, 'f1_score': 0.7586206896551724}
+
+=============================
+Kernel : poly, Parameter : C=100, Gamma=0, Degree=9
+Jumlah Data : 2000
+Akurasi SVM : 74.8
+Metrics : {'accuracy_score': 0.748, 'precision_score': 0.7279411764705882, 'recall_score': 0.792, 'f1_score': 0.7586206896551724}
+
+=============================
+Kernel : poly, Parameter : C=1000, Gamma=0, Degree=9
+Jumlah Data : 2000
+Akurasi SVM : 74.8
+Metrics : {'accuracy_score': 0.748, 'precision_score': 0.7279411764705882, 'recall_score': 0.792, 'f1_score': 0.7586206896551724}
+
+=============================
+Kernel : poly, Parameter : C=0.001, Gamma=0, Degree=10
+Jumlah Data : 2000
+Akurasi SVM : 74.0
+Metrics : {'accuracy_score': 0.74, 'precision_score': 0.7205882352941176, 'recall_score': 0.784, 'f1_score': 0.7509578544061303}
+
+=============================
+Kernel : poly, Parameter : C=0.01, Gamma=0, Degree=10
+Jumlah Data : 2000
+Akurasi SVM : 74.0
+Metrics : {'accuracy_score': 0.74, 'precision_score': 0.7205882352941176, 'recall_score': 0.784, 'f1_score': 0.7509578544061303}
+
+=============================
+Kernel : poly, Parameter : C=0.1, Gamma=0, Degree=10
+Jumlah Data : 2000
+Akurasi SVM : 74.0
+Metrics : {'accuracy_score': 0.74, 'precision_score': 0.7205882352941176, 'recall_score': 0.784, 'f1_score': 0.7509578544061303}
+
+=============================
+Kernel : poly, Parameter : C=1, Gamma=0, Degree=10
+Jumlah Data : 2000
+Akurasi SVM : 74.0
+Metrics : {'accuracy_score': 0.74, 'precision_score': 0.7205882352941176, 'recall_score': 0.784, 'f1_score': 0.7509578544061303}
+
+=============================
+Kernel : poly, Parameter : C=10, Gamma=0, Degree=10
+Jumlah Data : 2000
+Akurasi SVM : 74.0
+Metrics : {'accuracy_score': 0.74, 'precision_score': 0.7205882352941176, 'recall_score': 0.784, 'f1_score': 0.7509578544061303}
+
+=============================
+Kernel : poly, Parameter : C=100, Gamma=0, Degree=10
+Jumlah Data : 2000
+Akurasi SVM : 74.0
+Metrics : {'accuracy_score': 0.74, 'precision_score': 0.7205882352941176, 'recall_score': 0.784, 'f1_score': 0.7509578544061303}
+
+=============================
+Kernel : poly, Parameter : C=1000, Gamma=0, Degree=10
+Jumlah Data : 2000
+Akurasi SVM : 74.0
+Metrics : {'accuracy_score': 0.74, 'precision_score': 0.7205882352941176, 'recall_score': 0.784, 'f1_score': 0.7509578544061303}

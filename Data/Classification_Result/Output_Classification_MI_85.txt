@@ -1,0 +1,39 @@
+
+=============================
+Preprocessing: Stopword, Fitur Seleksi: MI, Max Feature: 85%
+--- K-FOLD CROSS VALIDATION ---
+----  K-Fold: 1 ----
+Features : 44724, Used : 38015
+Accuracy SVM : 0.865
+----  K-Fold: 2 ----
+Features : 44857, Used : 38128
+Accuracy SVM : 0.89
+----  K-Fold: 3 ----
+Features : 44778, Used : 38061
+Accuracy SVM : 0.885
+----  K-Fold: 4 ----
+Features : 45096, Used : 38332
+Accuracy SVM : 0.88
+----  K-Fold: 5 ----
+Features : 44892, Used : 38158
+Accuracy SVM : 0.885
+----  K-Fold: 6 ----
+Features : 44683, Used : 37981
+Accuracy SVM : 0.885
+----  K-Fold: 7 ----
+Features : 44490, Used : 37816
+Accuracy SVM : 0.89
+----  K-Fold: 8 ----
+Features : 44668, Used : 37968
+Accuracy SVM : 0.9
+----  K-Fold: 9 ----
+Features : 44805, Used : 38084
+Accuracy SVM : 0.85
+----  K-Fold: 10 ----
+Features : 44649, Used : 37952
+Accuracy SVM : 0.93
+=============================
+Kernel : linear, Parameter : C=1, Gamma=scale, Degree=3
+Jumlah Data : 2000
+Akurasi SVM : 88.6
+Metrics : {'accuracy_score': 0.886, 'precision_score': 0.8852295409181636, 'recall_score': 0.887, 'f1_score': 0.8861138861138861}
